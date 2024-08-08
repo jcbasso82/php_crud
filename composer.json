@@ -1,0 +1,10 @@
+{
+    "name": "terremoto/codesportal",
+    "description": "Portal de controle da Codes Consultoria",
+    "authors": [
+        {
+            "name": "Terremoto Informatica"
+        }
+    ],
+    "require": {}
+}
